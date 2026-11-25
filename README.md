@@ -188,7 +188,7 @@ gantt
 - **D.-G. Yuk**, J. W. Sohn, "Haptic-based Robot Hand Grasping Technique Using Reinforcement Learning," SPIE Smart Structures + NDE 2024. [doi](https://doi.org/10.1117/12.3010674)
 - M. Kim, **D.-G. Yuk**, D. Ryu, J. W. Sohn, "Characteristics Evaluation of Fibrous Mechanoluminescent Sensor," ML &amp; NSHD 2023.
 - M. Kim, **D.-G. Yuk**, D. Ryu, J. W. Sohn, "Performance Evaluation of Fibrous Sensor Based on Mechanoluminescent Material," PRESM 2023.
-- **D.-G. Yuk**, D. Ryu, J. W. Sohn, "Fabrication of Fiber Type Mechanoluminescent Soft Sensor," AMSM 2022.
+- **D.-G. Yuk**, D. Ryu, H. S. Kim, J. W. Sohn, "Fabrication of Fiber Type Mechanoluminescent Soft Sensor," AMSM 2022.
 - **D.-G. Yuk**, D. Ryu, J. W. Sohn, "Classification of Normal/Abnormal Conditions for Vehicle Engine," PHMAP 2021. 🥈
 - **D.-G. Yuk**, J. W. Sohn, "Remote Manipulation of Robot Arm Using EMG-Based Hand Motion Recognition," PRESM 2020.
 - **D.-G. Yuk**, J. W. Sohn, "Robot Arm Manipulation Using Electromyogram Sensors and Inertia Measurement Unit," PRESM 2019.
