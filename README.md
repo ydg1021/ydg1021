@@ -57,6 +57,12 @@
     </td>
   </tr>
   <tr>
+    <td><b>💼 Experience</b></td>
+    <td>
+      Researcher (HPC system administration), Supercomputing Center, KIT · Jan – Aug 2026
+    </td>
+  </tr>
+  <tr>
     <td><b>👨‍🏫 Teaching</b></td>
     <td>
       Lecturer, KIT · Capstone Design in Mechanical Engineering (2022)
