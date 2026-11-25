@@ -94,36 +94,42 @@ gantt
       End-to-end pipeline that fine-tunes a Vision-Language-Action foundation model (GR00T N1.7) on simulation data and deploys it on a real UR5e.
       With <b>zero real demonstrations</b>, photorealistic video augmentation raised real-robot success from <b>6.25 % to 43.75 %</b>.<br>
       <sub>Isaac Sim / Isaac Lab · haptic teleoperation for demos · AprilTag hand-eye calibration · Cosmos Transfer augmentation ·
-      failure-mode taxonomy (sim demos moved 4.3× more per step than real ones, the root of the table-crash failure) ·
-      <a href="https://doi.org/10.1007/s12541-026-01595-5">IJPEM 2026</a> (sim-to-real RL pick-and-place)</sub>
+      failure-mode taxonomy (sim demos moved 4.3× more per step than real ones, the root of the table-crash failure)</sub>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Haptics + RL / Inverse RL</b><br><sub>2023 – 2025 · grasping, peg-in-hole</sub></td>
+    <td align="center"><b><a href="https://github.com/ydg1021/haptic-irl-manipulation">Haptics + Inverse RL</a></b><br><sub>2024 – 2025 · peg-in-hole</sub></td>
     <td>
-      Robot hand grasping and arm control guided by haptic devices and reinforcement learning.
-      Adversarial inverse RL (AIRL) then learned the reward from force-rich demonstrations for contact tasks such as peg-in-hole.<br>
-      <sub><a href="https://doi.org/10.1109/ictc66702.2025.11388681">ICTC 2025</a> ·
-      <a href="https://doi.org/10.1117/12.3010674">SPIE Smart Structures + NDE 2024</a> ·
-      <a href="https://doi.org/10.5050/ksnve.2023.33.4.372">Trans. KSNVE 2023</a> (haptic glove) · PRESM 2024</sub>
+      Haptic teleoperation with contact-force feedback to record insertion demonstrations in simulation.
+      Adversarial inverse RL (AIRL) then learned the reward and the policy for peg-in-hole from those demonstrations.<br>
+      <sub>MuJoCo · Isaac Lab · Doosan A0509 ·
+      <a href="https://doi.org/10.1109/ictc66702.2025.11388681">ICTC 2025</a> · PRESM 2024</sub>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>RL Active Suspension</b><br><sub>2023 – 2024 · vehicle control</sub></td>
+    <td align="center"><b><a href="https://github.com/ydg1021/robot-hand-rl-simulink">Robot Hand Grasping RL</a></b><br><sub>2023 – 2024 · prosthetic hand</sub></td>
+    <td>
+      Reinforcement learning for grasping with a five-servo prosthetic-hand prototype built in the lab, trained in Simulink with one DDPG agent per servo.<br>
+      <sub><a href="https://doi.org/10.1117/12.3010674">SPIE Smart Structures + NDE 2024</a> ·
+      <a href="https://doi.org/10.5050/ksnve.2023.33.4.372">Trans. KSNVE 2023</a> (haptic glove)</sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center"><b><a href="https://github.com/ydg1021/rl-active-suspension">RL Active Suspension</a></b><br><sub>2023 – 2024 · vehicle control</sub></td>
     <td>
       Reinforcement-learning controller for a vehicle active suspension system.<br>
       <sub><a href="https://doi.org/10.7736/jkspe.023.141">J. Korean Soc. Precis. Eng. 2024</a> · KSNVE 2023 · KSME 2023</sub>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Mechanoluminescent Strain Sensor</b><br><sub>2022 – 2024 · smart sensor</sub></td>
+    <td align="center"><b><a href="https://github.com/ydg1021/mechanoluminescent-fiber-sensor">Mechanoluminescent Strain Sensor</a></b><br><sub>2022 – 2024 · smart sensor</sub></td>
     <td>
       Fabricated a fiber-type flexible sensor from a mechanoluminescent material, which emits light under strain, and evaluated its mechanical and sensing characteristics.<br>
       <sub><a href="https://doi.org/10.14775/ksmpe.2024.23.09.001">J. KSMPE 2024</a> · AMSM 2022 · PRESM 2023 · ML &amp; NSHD 2023</sub>
     </td>
   </tr>
   <tr>
-    <td align="center"><b>Fault Diagnosis</b><br><sub>2021 – 2025 · engine, electric motor</sub></td>
+    <td align="center"><b><a href="https://github.com/ydg1021/engine-motor-fault-diagnosis">Fault Diagnosis</a></b><br><sub>2021 – 2025 · engine, electric motor</sub></td>
     <td>
       Deep-learning anomaly detection for vehicle engines from surrounding sensor data, and fault detection for electric motors from vibration signals with transfer learning and image-based classification.<br>
       <sub><a href="https://doi.org/10.5050/ksnve.2022.32.5.488">Trans. KSNVE 2022</a> ·
@@ -132,7 +138,7 @@ gantt
     </td>
   </tr>
   <tr>
-    <td align="center"><b>EMG Motion Recognition</b><br><sub>2017 – 2022 · M.S. thesis</sub></td>
+    <td align="center"><b><a href="https://github.com/ydg1021/emg-motion-recognition-robot-arm">EMG Motion Recognition</a></b><br><sub>2017 – 2022 · M.S. thesis</sub></td>
     <td>
       Hand and arm motion recognition from surface EMG and IMU signals, used to control and remotely manipulate a robot arm.
       Extended to user-independent recognition, with a sign-language translator and a rock-paper-scissors robot built along the way.<br>
