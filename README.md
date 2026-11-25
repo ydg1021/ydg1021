@@ -115,7 +115,7 @@ gantt
   <tr>
     <td align="center"><b><a href="https://github.com/ydg1021/robot-hand-rl-simulink">Robot Hand Grasping RL</a></b><br><sub>2023 – 2024 · prosthetic hand</sub></td>
     <td>
-      Reinforcement learning for grasping with a five-servo prosthetic-hand prototype built in the lab, trained in Simulink with one DDPG agent per servo.<br>
+      A lab-built prosthetic-hand prototype is operated through a sensor glove, and five DDPG agents trained in Simulink drive the haptic-feedback servos on the glove.<br>
       <sub><a href="https://doi.org/10.1117/12.3010674">SPIE Smart Structures + NDE 2024</a> ·
       <a href="https://doi.org/10.5050/ksnve.2023.33.4.372">Trans. KSNVE 2023</a> (haptic glove)</sub>
     </td>
