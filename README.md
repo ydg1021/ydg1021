@@ -1,11 +1,10 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F766E,100:2DD4BF&height=230&section=header&text=Do-Gyeong%20Yuk&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Robot%20Learning%20%C2%B7%20AIAS%20Lab%20%40%20Kumoh%20National%20Institute%20of%20Technology&descSize=18&descColor=E6FFFA&descAlignY=55" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0F766E,100:2DD4BF&height=230&section=header&text=Do-Gyeong%20Yuk&fontSize=62&fontColor=FFFFFF&animation=fadeIn&fontAlignY=34&desc=Postdoctoral%20Researcher%20%C2%B7%20Robot%20Learning%20%40%20Kumoh%20National%20Institute%20of%20Technology&descSize=18&descColor=E6FFFA&descAlignY=55" width="100%" />
 </div>
 
 <div align="center">
   <a href="https://sites.google.com/view/kit-ssc"><img src="https://img.shields.io/badge/Lab-AIAS%20Lab-0F766E?style=for-the-badge&logo=googlesites&logoColor=white" /></a>
   <a href="mailto:dgyuk@kumoh.ac.kr"><img src="https://img.shields.io/badge/Email-Contact-14B8A6?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://doi.org/10.1007/s12541-026-01595-5"><img src="https://img.shields.io/badge/Latest%20Paper-IJPEM%202026-0F766E?style=for-the-badge&logo=doi&logoColor=white" /></a>
 </div>
 
 <br>
@@ -29,10 +28,10 @@
 
 <table>
   <tr>
-    <td width="160"><b>🧪 Lab</b></td>
+    <td width="160"><b>🧪 Position</b></td>
     <td>
-      <b>Robot Learning Researcher</b> · <a href="https://sites.google.com/view/kit-ssc">AI &amp; Autonomous System Lab. (AIAS Lab)</a><br>
-      <sub>Advisor: Prof. Jung Woo Sohn · Research topic: <b>Sim-to-Real Robot Manipulation with VLA Models</b></sub>
+      <b>Postdoctoral Researcher</b> · AX Research &amp; Innovation Center, AX Graduate School Project<br>
+      <sub>Kumoh National Institute of Technology (KIT) · Research topic: <b>Sim-to-Real Robot Manipulation with VLA Models</b></sub>
     </td>
   </tr>
   <tr>
@@ -40,7 +39,8 @@
     <td>
       <b>Ph.D.</b> in Mechanical Engineering, Kumoh National Institute of Technology (KIT) · 2026<br>
       <b>M.S.</b> in Mechanical Design Engineering, KIT · 2020<br>
-      <b>B.S.</b> in Mechanical Design Engineering, KIT · 2018
+      <b>B.S.</b> in Mechanical Design Engineering, KIT · 2018<br>
+      <sub>Ph.D. advisor: Prof. Jung Woo Sohn · <a href="https://sites.google.com/view/kit-ssc">AI &amp; Autonomous System Lab. (AIAS Lab)</a></sub>
     </td>
   </tr>
   <tr>
