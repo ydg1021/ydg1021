@@ -59,7 +59,8 @@
   <tr>
     <td><b>💼 Experience</b></td>
     <td>
-      Researcher (HPC system administration), Supercomputing Center, KIT · Jan – Aug 2026
+      Researcher (HPC system administration), Supercomputing Center, KIT · Jan – Aug 2026<br>
+      <sub>Operation and user support of a cluster with 56 CPU nodes (3,584 cores) and 4 GPU nodes (8 × NVIDIA H100) · PBS Professional queue design · LDAP account management · SSL VPN and firewall operation · usage accounting for the paid service</sub>
     </td>
   </tr>
   <tr>
@@ -228,7 +229,7 @@ gantt
 </div>
 
 <div align="center">
-  <sub>Hardware: UR5e · Robotiq 2F-85 · Force Dimension omega.6 · Intel RealSense D455 / D435i</sub>
+  <sub>Hardware: UR5e · Robotiq 2F-85 · Force Dimension omega.6 · Intel RealSense D455 (front) / D435i (wrist)</sub>
 </div>
 
 <br>
