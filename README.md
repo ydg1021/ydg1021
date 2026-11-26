@@ -85,7 +85,7 @@ gantt
     section Fault diagnosis
     Engine and electric motor fault detection :2021-05, 2025-06
     section Smart sensor
-    Mechanoluminescent strain sensor :2021-11, 2024-09
+    Mechanoluminescent strain sensor :2021-09, 2024-09
     section Vehicle control
     RL for active suspension :2023-05, 2024-03
     section Robot learning
