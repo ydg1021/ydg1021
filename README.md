@@ -85,11 +85,11 @@ gantt
     section Fault diagnosis
     Engine and electric motor fault detection :2021-05, 2025-06
     section Smart sensor
-    Mechanoluminescent strain sensor :2022-10, 2024-09
+    Mechanoluminescent strain sensor :2021-11, 2024-09
     section Vehicle control
     RL for active suspension :2023-05, 2024-03
     section Robot learning
-    Haptics with RL and inverse RL :2023-08, 2025-10
+    Haptics with RL and inverse RL :2023-08, 2025-12
     Sim-to-real and VLA foundation models :2025-06, 2026-12
 ```
 
@@ -108,7 +108,7 @@ gantt
     <td>
       Haptic teleoperation with contact-force feedback to record insertion demonstrations in simulation.
       Adversarial inverse RL (AIRL) then learned the reward and the policy for peg-in-hole from those demonstrations.<br>
-      <sub>MuJoCo · Isaac Lab · Doosan A0509 ·
+      <sub>MuJoCo · Isaac Lab · Doosan A0509 · Phantom Premium 1.5A · Force Dimension Omega.6 ·
       <a href="https://doi.org/10.1109/ictc66702.2025.11388681">ICTC 2025</a> · PRESM 2024</sub>
     </td>
   </tr>
@@ -116,7 +116,8 @@ gantt
     <td align="center"><b><a href="https://github.com/ydg1021/robot-hand-rl-simulink">Robot Hand Grasping RL</a></b><br><sub>2023 – 2024 · prosthetic hand</sub></td>
     <td>
       A lab-built prosthetic-hand prototype is operated through a sensor glove, and five DDPG agents trained in Simulink drive the haptic-feedback servos on the glove.<br>
-      <sub><a href="https://doi.org/10.1117/12.3010674">SPIE Smart Structures + NDE 2024</a> ·
+      <sub>Simulink · Dynamixel XL-320 · flex-sensor glove ·
+      <a href="https://doi.org/10.1117/12.3010674">SPIE Smart Structures + NDE 2024</a> ·
       <a href="https://doi.org/10.5050/ksnve.2023.33.4.372">Trans. KSNVE 2023</a> (haptic glove)</sub>
     </td>
   </tr>
@@ -128,7 +129,7 @@ gantt
     </td>
   </tr>
   <tr>
-    <td align="center"><b><a href="https://github.com/ydg1021/mechanoluminescent-fiber-sensor">Mechanoluminescent Strain Sensor</a></b><br><sub>2022 – 2024 · smart sensor</sub></td>
+    <td align="center"><b><a href="https://github.com/ydg1021/mechanoluminescent-fiber-sensor">Mechanoluminescent Strain Sensor</a></b><br><sub>2021 – 2024 · smart sensor</sub></td>
     <td>
       Fabricated a fiber-type flexible sensor from a mechanoluminescent material, which emits light under strain, and evaluated its mechanical and sensing characteristics.<br>
       <sub><a href="https://doi.org/10.14775/ksmpe.2024.23.09.001">J. KSMPE 2024</a> · AMSM 2022 · PRESM 2023 · ML &amp; NSHD 2023</sub>
